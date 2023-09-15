@@ -1,4 +1,4 @@
-import 'package:anime_animation/circle_animation.dart';
+import 'package:anime_animation/yingyang_animation.dart';
 import 'package:flutter/material.dart';
 
 import 'tranform_animation.dart';
@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget{
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home:TransformAnimation());
+    return const MaterialApp(home:YingYangAnimation());
   }
 
 }
