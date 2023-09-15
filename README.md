@@ -1,16 +1,1 @@
-# anime_animation
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[device-2023-09-15-114137.webm](https://github.com/Akaash7MM/animationslearning/assets/113977731/3592f64f-04fe-4867-a40f-b6cb75f0897a)
